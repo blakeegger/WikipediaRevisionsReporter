@@ -1,6 +1,6 @@
 # Project Report
 
-(Put your name here)
+Blake Egger
 
 ## Markdown Tips
 
